@@ -9,9 +9,9 @@ date = "2022-03-05"
 description = "Guide to emoji usage in Hugo"
 tags = [
     "VisualStudio,",
-    "CSharp,",
-    "C#Prgramming,",
-    "C#Development,",
+    "C-Sharp,",
+    "C-Prgramming,",
+    "C-Development,",
 ] 
 +++
 
