@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://giteshwagh.com'
 languageCode = 'en-us'
 title = 'Gitesh Wagh'
 paginate = 3
