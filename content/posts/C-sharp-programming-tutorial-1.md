@@ -4,9 +4,9 @@ title: "C# Programming Tutorials For Beginners #1"
 date: "2022-03-10"
 Tags : [
     "VisualStudio,",
-    "CSharp,",
-    "C#Prgramming,",
-    "C#Development,",
+    "C-Sharp,",
+    "C-Prgramming,",
+    "C-Development,",
 ] 
 ---
 
