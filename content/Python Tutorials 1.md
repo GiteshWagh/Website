@@ -7,7 +7,7 @@ tags :
 - Coding,
 - Latest,
 - python,
-- python_programming_Tutorials_#1,
+
 ---
 
 # 1.Print Funtion
