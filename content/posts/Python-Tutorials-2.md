@@ -6,7 +6,6 @@ tags :
 - Coding,
 - Latest,
 - python,
-- python_programming_Tutorials_#1,
 ---
 
 # Variables :-
