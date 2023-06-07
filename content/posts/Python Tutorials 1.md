@@ -1,6 +1,6 @@
 ---
 author: "Gitesh Wagh"
-title : " Basics Of Python - Python Tutorials For Beginners #1"
+title : " Basics Of Python - Python Tutorials For Beginners 1"
 date : "2023-06-02"
 tags : 
 - Programming, 
